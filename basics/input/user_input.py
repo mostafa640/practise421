@@ -1,3 +1,5 @@
 print("whats your name human!")
 name=input()
 print(f"It is nice to meet you{name}")
+name=-input("what is your name human?")
+print(f"what is your name human {name}")
